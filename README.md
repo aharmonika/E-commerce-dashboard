@@ -22,7 +22,8 @@ Key technologies used to build this Dashboard -
 📁Data file - CSV file is used as a raw data
 🗃️file format - .pbit is for development and png for dashboard previwes.
 
-Screeshot of the Dashboard - 
+Screeshot of the Dashboard - https://github.com/aharmonika/E-commerce-dashboard/blob/main/Dashboard%20SS.png
+
 
 
 
